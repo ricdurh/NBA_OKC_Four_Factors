@@ -16,4 +16,19 @@ The variation in wins is explained by looking at the proportion of the sum of sq
 ![](/images/_okc_corr.png)
 
 
-The 2021-22 NBA season was a struggle for the Oklahoma City Thunder (OKC). 
+Using the four factors, OKC would've been projected to have a record of 23.4 - 58.6, which aligns with their actual record of 24-58. The team had the following rankings in the eight categories:
+
+![](/images/_okc_ff.png)
+
+The main driver for the team struggles is centered around offensive effective field goal (EFG) percentage. In arguably the most important factor, the team ranked 29th in the league. In contrast, the Golden State Warriors and Boston Celtics, the two teams playing in the NBA Finals, performed exceptionally well in offensive and defensive EFG. Their four-factor rankings are shown below:
+
+![](/images/_bos_gsw.png)
+
+
+The next graph removes the Free Throw rate (least predictive factor). The size of the bubble shows rebounding, then the x-axis shows EFG and y-axis turnovers. The color divides teams by final records as 'Top 10', 'Middle 10', and 'Bottom 10', as well as 'OKC'.
+
+![](/images/_okc_to_efg.png)
+
+Finally, this graph takes a deeper look into the need to improve shooting. This shows each team's EFG, as well as the proportion of shots where the nearest defender is 4+ feet away. Though some of this could be driven by defenses willingly offering open looks to non-shooters, it's apparent the team is at least going in the right direction of creating good looks. By looking at the proportion of team shots that are open by 4+ feet, the team ranks in the top 5 at just under 55.8%. However, they also shoot a league-worst 50.8% EFG on such shots. 
+
+![](/images/_okc_open4.png)
