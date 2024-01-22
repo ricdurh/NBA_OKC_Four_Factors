@@ -25,7 +25,7 @@ The main driver for the team struggles is centered around offensive effective fi
 ![](/images/_bos_gsw.png)
 
 
-The next graph removes the Free Throw rate (least predictive factor). The size of the bubble shows rebounding, then the x-axis shows EFG and y-axis turnovers. The color divides teams by final records as 'Top 10', 'Middle 10', and 'Bottom 10', as well as 'OKC'.
+The next graph removes the Free Throw rate (least predictive factor). The size of the bubble shows rebounding, then the x-axis shows EFG and y-axis turnovers. The color categorizes teams by final records as 'Top 10', 'Middle 10', and 'Bottom 10', as well as 'OKC'.
 
 ![](/images/_okc_to_efg.png)
 
