@@ -32,3 +32,5 @@ The next graph removes the Free Throw rate (least predictive factor). The size o
 Finally, this graph takes a deeper look into the need to improve shooting. This shows each team's EFG, as well as the proportion of shots where the nearest defender is 4+ feet away. Though some of this could be driven by defenses willingly offering open looks to non-shooters, it's apparent the team is at least going in the right direction of creating good looks. By looking at the proportion of team shots that are open by 4+ feet, the team ranks in the top 5 at just under 55.8%. However, they also shoot a league-worst 50.8% EFG on such shots. 
 
 ![](/images/_okc_open4.png)
+
+The data was obtained using the nba_api and the extremely helpful [documentation](https://github.com/swar/nba_api/tree/master) by Swar Patel.
